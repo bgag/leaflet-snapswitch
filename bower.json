@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-snapswitch",
+  "description": "Handler to switch editing mode between simple (Leaflet-Draw) and snap (Leaflet-Snap)",
+  "homepage": "https://github.com/bgag/leaflet-snapswitch",
+  "version": "0.0.1",
+  "keywords": [
+    "leaflet",
+    "snap"
+  ],
+  "main": [
+    "leaflet.snapswitch.js"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "leaflet": ">= 0.7.0",
+    "leaflet-draw": ">= 0.2.2",
+    "leaflet-snap": "git://github.com/makinacorpus/Leaflet.Snap.git#master"
+  }
+}
