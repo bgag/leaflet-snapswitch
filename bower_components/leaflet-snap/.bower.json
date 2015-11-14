@@ -1,0 +1,13 @@
+{
+  "name": "leaflet-snap",
+  "homepage": "https://github.com/makinacorpus/Leaflet.Snap",
+  "_release": "b0524e10af",
+  "_resolution": {
+    "type": "branch",
+    "branch": "add_draw_integration",
+    "commit": "b0524e10af5c0cd31a0e6c791845884abb070038"
+  },
+  "_source": "git://github.com/makinacorpus/Leaflet.Snap.git",
+  "_target": "add_draw_integration",
+  "_originalSource": "git://github.com/makinacorpus/Leaflet.Snap.git"
+}
