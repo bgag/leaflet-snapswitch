@@ -14,6 +14,6 @@
   "dependencies": {
     "leaflet": ">= 0.7.0",
     "leaflet-draw": ">= 0.2.2",
-    "leaflet-snap": "git://github.com/makinacorpus/Leaflet.Snap.git#add_draw_integration"
+    "leaflet-snap": "git://github.com/makinacorpus/Leaflet.Snap.git#b0524e10af5c0cd31a0e6c791845884abb070038"
   }
 }
